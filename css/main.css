@@ -5,11 +5,16 @@
    ========================================================================== */
 
 
-
-
-
-
-
+            #mainContainer { 
+            /*display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            position: relative;
+            border: solid;
+            content:url(../img/nisaLogo.jpg);
+            background-image:url(../img/nisaLogo.jpg);*/
+            }
 
 
 
